@@ -22,3 +22,8 @@ The following libraries need to imported in order to run all the cells in the no
 -- torch  
 -- matplotlib.pyplot  
 -- pandas as pd  
+
+## Running the agent
+To run the agent in the environment and using the different methods one just have to sequantially execute the cells in the notebook. 
+
+All the different methods are in the notebook. However, the code needs to be refractored becuase in order to run the different methods one as to manually do some comment and uncomment in the correct places. The code in its default will run a DQN with eperience replay using softmax with decaying temperature for action selection.
