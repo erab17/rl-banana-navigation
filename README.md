@@ -15,10 +15,10 @@ This is an episodic task becuase the episode will automaticly end after 299 time
 
 ## Libraries needed
 The following libraries need to imported in order to run all the cells in the notebook
--- UnityEnvironment from unityagents 
--- numpy
--- random
--- namedtuple and deque from collections
--- torch
--- matplotlib.pyplot
--- pandas as pd
+-- UnityEnvironment from unityagents  
+-- numpy  
+-- random  
+-- namedtuple and deque from collections  
+-- torch  
+-- matplotlib.pyplot  
+-- pandas as pd  
